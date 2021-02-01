@@ -3,8 +3,8 @@
 Instagram App :
 1. Auth : 
 
-        - Login
-        - Register
+       - Login
+       - Register
         
 2. Home
 3. Explore
