@@ -3,9 +3,12 @@
 Instagram App :
 1. Auth : 
 
-       - Login
-       - Register
-        
+      - Login
+      - Create Account
+      
+      - Terms of Service -> Webview Terms of Service 
+      - Privacy & Policy -> Webview Privacy & Policy
+       
 2. Home
 3. Explore
         
