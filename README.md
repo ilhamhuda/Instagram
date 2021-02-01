@@ -1,10 +1,12 @@
 # Instagram
 
+Xcode 12
+
 Instagram App :
 1. Auth : 
 
-      - Login
-      - Create Account
+      - Login ( Firebase )
+      - Create Account ( Firebase )
       
       - Terms of Service -> Webview Terms of Service 
       - Privacy & Policy -> Webview Privacy & Policy
