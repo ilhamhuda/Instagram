@@ -1,7 +1,8 @@
 # Instagram
 
-Xcode 12
+This is Instagram Sample App. 
 
+Xcode 12
 Instagram App :
 1. Auth : 
 
