@@ -1,6 +1,6 @@
 # Instagram
 
-This is Instagram Sample App. 
+This is Instagram Sample App. This project using MVC design pattern & unsing firebase for Authentification.
 
 Xcode 12
 Instagram App :
